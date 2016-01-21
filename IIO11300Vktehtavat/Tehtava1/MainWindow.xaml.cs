@@ -1,7 +1,7 @@
 ﻿/*
 * Copyright (C) JAMK/IT/Esa Salmikangas
 * This file is part of the IIO11300 course project.
-* Created: 12.1.2016 Modified: 14.1.2016
+* Created: 12.1.2016 Modified: 21.1.2016
 * Authors: Jere Halme ,Esa Salmikangas
 */
 using System;
@@ -33,7 +33,7 @@ namespace Tehtava1
 
         private void btnCalculate_Click(object sender, RoutedEventArgs e)
         {
-            //TODO
+            
             try
             {
                 double windowArea;
